@@ -13,7 +13,22 @@ Descrição:
 
   Prints abaixo:
 
+  ![Tela de inicial](https://github.com/WiiinchesteR/gamelist/blob/master/Screenshots/tela%20inicial.png)
+
   ![Tela de cadastro](https://github.com/WiiinchesteR/gamelist/blob/master/Screenshots/tela%20de%20cadastro.png)
+
+  ![Tela de confirmação](https://github.com/WiiinchesteR/gamelist/blob/master/Screenshots/tela%20de%20confirma%C3%A7%C3%A3o.png)
+
+   ![Tela de listagem](https://github.com/WiiinchesteR/gamelist/blob/master/Screenshots/tela%20que%20lista%20os%20jogos%20adicionados.png)
+
+  ![Tela de quantidade](https://github.com/WiiinchesteR/gamelist/blob/master/Screenshots/tela%20que%20mostra%20a%20quantidade%20de%20jogos%20adicionados.png)
+
+  ![Tela de busca](https://github.com/WiiinchesteR/gamelist/blob/master/Screenshots/tela%20para%20buscar%20os%20jogos.png)
+
+  ![Tela de remoção](https://github.com/WiiinchesteR/gamelist/blob/master/Screenshots/tela%20de%20remo%C3%A7%C3%A3o.png)
+
+  ![Tela de confirmação de exclusão](https://github.com/WiiinchesteR/gamelist/blob/master/Screenshots/confirma%C3%A7%C3%A3o%20de%20exclus%C3%A3o.png)
+  
 
 Meu perfil do Linkedin:
 
