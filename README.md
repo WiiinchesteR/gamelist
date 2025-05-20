@@ -11,6 +11,10 @@ Descrição:
 
   Tudo isso utlizando Json como persistência de dados.
 
+  Prints abaixo:
+
+  ![Tela de cadastro](https://github.com/WiiinchesteR/gamelist/blob/master/Screenshots/tela%20de%20cadastro.png)
+
 Meu perfil do Linkedin:
 
 https://www.linkedin.com/in/davi-moraes-dev/
