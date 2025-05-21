@@ -8,8 +8,9 @@ Descrição:
 * Opção de buscar um jogo adicionado
 * Opção de remover um jogo
 * Opção e mostrar a quantidade de jogos que foram adicionados
+* Todo jogo cadastrado, é criado um Json numa pasta específica.
 
-  Tudo isso utlizando Json como persistência de dados.
+  Utlizando então, Json como persistência de dados.
 
   Prints abaixo:
 
